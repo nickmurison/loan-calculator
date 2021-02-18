@@ -1,7 +1,7 @@
 {
-    "name": "loancalculator",
+    "name": "nick-loancalculator",
     "owner": "nickmurison",
-    "description": "The loan calculator application",
+    "description": "Nick's special loan calculator application",
     "visibility": "private",
     "template": [
         "artifact",
